@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=papercodeIN.papercodeIN" height="20" />
 
 ## 🔗 Connect With Me
-[![YouTube](https://img.shields.io/badge/YouTube-Fusion-Automate-red?style=flat&logo=youtube)](https://www.youtube.com/@Fusion_Automate)
+[![YouTube](https://img.shields.io/badge/YouTube-PlatimaTinkers-red?style=flat&logo=youtube)](https://www.youtube.com/@Fusion_Automate)
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
 [![Instagram](https://img.shields.io/badge/Instagram-platimatinkers-purple?style=flat&logo=instagram)](https://www.instagram.com/platimatinkers)
 [![Reddit](https://img.shields.io/badge/Reddit-r/Platima-orange?style=flat&logo=reddit)](https://www.reddit.com/r/Platima/) -->
