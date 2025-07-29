@@ -29,7 +29,14 @@ Here are some ideas to get you started:
 
 ## 🛒 Shop & Resources
 [![Website + Store](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
-[![Buymeacoffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-blue?style=flat&logo=coffee)](https://buymeacoffee.com/pylin/)
+[![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-blue?style=flat&logo=coffee)](https://buymeacoffee.com/pylin/extras)
+
+## 💖 Support My Work
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=flat&logo=paypal)](https://buymeacoffee.com/pylin/)
+<!-- [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat&logo=paypal)](https://paypal.me/PlatimaCash) -->
+<!-- [![Patreon](https://img.shields.io/badge/Patreon-Support_My_Work-f96854?style=flat&logo=patreon)](https://patreon.com/platima) -->
+<!-- [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Platima-4078c0?style=flat&logo=github)](https://github.com/sponsors/platima) -->
+
 <!-- [![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
 
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
