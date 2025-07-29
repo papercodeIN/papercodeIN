@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 [![Dailymotion](https://img.shields.io/badge/Dailymotion-FusionAutomate-red?style=flat&logo=dailymotion)](https://www.dailymotion.com/fusionautomate)
 [![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-red?style=flat&logo=rumble)](http://rumble.com/c/Fusion_Automate)
 [![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://instagram.com/fusion_automate)
+[![LinkedIn](https://img.shields.io/badge/LinkdIn-FusionAutomate-purple?style=flat&logo=linkedin)](https://www.linkedin.com/company/fusion-automate/)
 
 
 ## 🛒 Shop & Resources
-[![Website](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
-<!-- [![SBC Tier List](https://img.shields.io/badge/SBC_Tier_List-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
+[![Website + Store](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
+<!-- [![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
 
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
 [![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://www.instagram.com/platimatinkers)
