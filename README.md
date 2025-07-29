@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 ## 🔗 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-FusionAutomate-red?style=flat&logo=youtube)](https://www.youtube.com/@Fusion_Automate)
+
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
-[![Instagram](https://img.shields.io/badge/Instagram-platimatinkers-purple?style=flat&logo=instagram)](https://www.instagram.com/platimatinkers)
-[![Reddit](https://img.shields.io/badge/Reddit-r/Platima-orange?style=flat&logo=reddit)](https://www.reddit.com/r/Platima/) -->
+[![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://www.instagram.com/platimatinkers)
+[![Reddit](https://img.shields.io/badge/Reddit-r/FusionAutomate-orange?style=flat&logo=reddit)](https://www.reddit.com/r/Platima/) -->
 
 
 <!-- ## About Me
