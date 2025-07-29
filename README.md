@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 # 👋 Welcome to Fusion Automate's GitHub
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=papercodeIN.papercodeIN" height="20" />
 
+## 🔗 Connect With Me
+[![YouTube](https://img.shields.io/badge/YouTube-PlatimaTinkers-red?style=flat&logo=youtube)](https://www.youtube.com/@Fusion_Automate)
+<!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
+[![Instagram](https://img.shields.io/badge/Instagram-platimatinkers-purple?style=flat&logo=instagram)](https://www.instagram.com/platimatinkers)
+[![Reddit](https://img.shields.io/badge/Reddit-r/Platima-orange?style=flat&logo=reddit)](https://www.reddit.com/r/Platima/) -->
+
+
 <!-- ## About Me
 Aussie, late 30's, having fun and loving life whilst tinkering with food and technology, sometimes making videos and selling spare product via my online SBC & electronics shop.
 
@@ -26,11 +33,6 @@ I create content focused on single-board computers, electronics, and tinkering p
 
 My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 
-## 🔗 Connect With Me
-[![YouTube Technology](https://img.shields.io/badge/YouTube-PlatimaTinkers-red?style=flat&logo=youtube)](https://youtube.com/@platimatinkers)
-[![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
-[![Instagram](https://img.shields.io/badge/Instagram-platimatinkers-purple?style=flat&logo=instagram)](https://www.instagram.com/platimatinkers)
-[![Reddit](https://img.shields.io/badge/Reddit-r/Platima-orange?style=flat&logo=reddit)](https://www.reddit.com/r/Platima/)
 
 ## 💖 Support My Work
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat&logo=paypal)](https://paypal.me/PlatimaCash)
