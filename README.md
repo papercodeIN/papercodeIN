@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ## 🔗 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-FusionAutomate-red?style=flat&logo=youtube)](https://www.youtube.com/@Fusion_Automate)
+[![Dailymotion](https://img.shields.io/badge/YouTube-FusionAutomate-red?style=flat&logo=youtube)](https://www.dailymotion.com/fusionautomate)
+[![Rumble](https://img.shields.io/badge/YouTube-FusionAutomate-red?style=flat&logo=youtube)](http://rumble.com/c/Fusion_Automate)
 
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
 [![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://www.instagram.com/platimatinkers)
