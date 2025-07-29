@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 [![Dailymotion](https://img.shields.io/badge/Dailymotion-FusionAutomate-red?style=flat&logo=youtube)](https://www.dailymotion.com/fusionautomate)
 [![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-red?style=flat&logo=youtube)](http://rumble.com/c/Fusion_Automate)
 
+## 🛒 Shop & Resources
+[![Website](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat&logo=shopify)](https://fusionautomate.in/)
+<!-- [![SBC Tier List](https://img.shields.io/badge/SBC_Tier_List-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
+
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
 [![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://www.instagram.com/platimatinkers)
 [![Reddit](https://img.shields.io/badge/Reddit-r/FusionAutomate-orange?style=flat&logo=reddit)](https://www.reddit.com/r/Platima/) -->
