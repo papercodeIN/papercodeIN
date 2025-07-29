@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Dailymotion](https://img.shields.io/badge/Dailymotion-FusionAutomate-red?style=flat&logo=dailymotion)](https://www.dailymotion.com/fusionautomate)
 [![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-red?style=flat&logo=rumble)](http://rumble.com/c/Fusion_Automate)
 [![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://instagram.com/fusion_automate)
-[![LinkedIn](https://img.shields.io/badge/LinkdIn-FusionAutomate-purple?style=flat&logo=linkedin)](https://www.linkedin.com/company/fusion-automate/)
+[![LinkedIn](https://img.shields.io/badge/LinkdIn-FusionAutomate-purple?style=flat&logo=business)](https://www.linkedin.com/company/fusion-automate/)
 
 
 ## 🛒 Shop & Resources
