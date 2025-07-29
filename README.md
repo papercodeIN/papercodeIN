@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-blue?style=flat&logo=coffee)](https://buymeacoffee.com/pylin/extras)
 
 ## 💖 Support My Work
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=flat&logo=paypal)](https://buymeacoffee.com/pylin/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/pylin/)
 <!-- [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat&logo=paypal)](https://paypal.me/PlatimaCash) -->
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-Support_My_Work-f96854?style=flat&logo=patreon)](https://patreon.com/platima) -->
 <!-- [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Platima-4078c0?style=flat&logo=github)](https://github.com/sponsors/platima) -->
