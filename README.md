@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ## 🛒 Shop & Resources
 [![Website + Store](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
+[![Buymeacoffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-blue?style=flat&logo=coffee)](https://buymeacoffee.com/pylin/)
 <!-- [![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
 
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
