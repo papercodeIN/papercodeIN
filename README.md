@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-red?style=flat&logo=rumble)](http://rumble.com/c/Fusion_Automate)
 
 ## 🛒 Shop & Resources
-[![Website](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat&logo=chrome)](https://fusionautomate.in/)
+[![Website](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
 <!-- [![SBC Tier List](https://img.shields.io/badge/SBC_Tier_List-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
 
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
