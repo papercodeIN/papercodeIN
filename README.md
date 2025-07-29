@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 [![YouTube](https://img.shields.io/badge/YouTube-FusionAutomate-red?style=flat&logo=youtube)](https://www.youtube.com/@Fusion_Automate)
 [![Dailymotion](https://img.shields.io/badge/Dailymotion-FusionAutomate-red?style=flat&logo=dailymotion)](https://www.dailymotion.com/fusionautomate)
 [![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-red?style=flat&logo=rumble)](http://rumble.com/c/Fusion_Automate)
+[![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://instagram.com/fusion_automate)
+
 
 ## 🛒 Shop & Resources
 [![Website](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
