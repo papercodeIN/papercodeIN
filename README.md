@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-Support_My_Work-f96854?style=flat&logo=patreon)](https://patreon.com/platima) -->
 <!-- [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Platima-4078c0?style=flat&logo=github)](https://github.com/sponsors/platima) -->
 
+
+## ⭐ Featured Repositories
+[![Orange Pi](https://img.shields.io/badge/OrangePi_Format-EBF-brightgreen?style=flat)](https://github.com/papercodeIN/OrangePi)
+
+<!-- [![Board Taxonomies](https://img.shields.io/badge/Board_Taxonomies-Documentation-blue?style=flat)](https://github.com/platima/Board-Taxonomies) Clear definitions and categorization for different types of embedded computing boards (SBCs, Compute Modules, etc.).
+
+[![SBC Images](https://img.shields.io/badge/SBC_Images-Custom_Builds-orange?style=flat)](https://github.com/platima/SBC-Images) Custom built OS images for various single-board computers with improvements over stock versions. -->
+
 <!-- [![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
 
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
