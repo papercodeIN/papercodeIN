@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 # 👋 Welcome to Fusion Automate's GitHub
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=papercodeIN.papercodeIN" height="20" />
+
 
 ---
 <p align="center">
