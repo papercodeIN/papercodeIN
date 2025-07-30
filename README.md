@@ -40,15 +40,20 @@ Here are some ideas to get you started:
 
 ## ⭐ Featured Repositories
 [![OrangePi](https://img.shields.io/badge/OrangePi-SBC-orange?style=flat)](https://github.com/papercodeIN/OrangePi)
+
 [![BananaPi](https://img.shields.io/badge/BananaPi-SBC-blue?style=flat)](https://github.com/papercodeIN/BananaPi)
+
 [![ArmSom](https://img.shields.io/badge/ArmSom-SBC-brightgreen?style=flat)](https://github.com/papercodeIN/ArmSom)
+
 [![LuckFox](https://img.shields.io/badge/LuckFox-SBC-yellow?style=flat)](https://github.com/papercodeIN/Luckfox)
+
 [![Simulator Software](https://img.shields.io/badge/Simulator-Software-purple?style=flat)](https://github.com/papercodeIN/Simulator_Software_for_Training)
+
 <!-- [![Orange Pi](https://img.shields.io/badge/OrangePi-SBC-brightgreen?style=flat)](https://github.com/papercodeIN/OrangePi) -->
 
-<!-- [![Board Taxonomies](https://img.shields.io/badge/Board_Taxonomies-Documentation-blue?style=flat)](https://github.com/platima/Board-Taxonomies) Clear definitions and categorization for different types of embedded computing boards (SBCs, Compute Modules, etc.).
+[![Board Taxonomies](https://img.shields.io/badge/Board_Taxonomies-Documentation-blue?style=flat)](https://github.com/platima/Board-Taxonomies) Clear definitions and categorization for different types of embedded computing boards (SBCs, Compute Modules, etc.).
 
-[![SBC Images](https://img.shields.io/badge/SBC_Images-Custom_Builds-orange?style=flat)](https://github.com/platima/SBC-Images) Custom built OS images for various single-board computers with improvements over stock versions. -->
+[![SBC Images](https://img.shields.io/badge/SBC_Images-Custom_Builds-orange?style=flat)](https://github.com/platima/SBC-Images) Custom built OS images for various single-board computers with improvements over stock versions.
 
 <!-- [![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
 
