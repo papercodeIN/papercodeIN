@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 [![BananaPi](https://img.shields.io/badge/BananaPi-SBC-blue?style=flat)](https://github.com/papercodeIN/BananaPi)
 [![ArmSom](https://img.shields.io/badge/ArmSom-SBC-brightgreen?style=flat)](https://github.com/papercodeIN/ArmSom)
 [![LuckFox](https://img.shields.io/badge/LuckFox-SBC-yellow?style=flat)](https://github.com/papercodeIN/Luckfox)
+[![D-Robotics](https://img.shields.io/badge/LuckFox-SBC-yellow?style=flat)](https://github.com/papercodeIN/D-Robotics)
 [![Simulator Software](https://img.shields.io/badge/Simulator-Software-purple?style=flat)](https://github.com/papercodeIN/Simulator_Software_for_Training)
 
 <!-- [![Orange Pi](https://img.shields.io/badge/OrangePi-SBC-brightgreen?style=flat)](https://github.com/papercodeIN/OrangePi) -->
