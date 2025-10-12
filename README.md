@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 
 ## 💖 Support My Work
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/pylin/)
-                                                                                                           
 
 <!-- [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat&logo=paypal)](https://paypal.me/PlatimaCash) -->
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-Support_My_Work-f96854?style=flat&logo=patreon)](https://patreon.com/platima) -->
