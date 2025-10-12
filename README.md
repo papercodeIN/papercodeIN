@@ -64,10 +64,11 @@ Here are some ideas to get you started:
 ## 🍓 Embedded
 [![Nextion-SONOFF](https://img.shields.io/badge/Nextion-SONOFF-orange?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
 [![WittelB](https://img.shields.io/badge/WittelB-blue?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
-<!-- [![ArmSom](https://img.shields.io/badge/ArmSom-SBC-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
-[![LuckFox](https://img.shields.io/badge/LuckFox-SBC-yellow?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
-[![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-red?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
-[![Portworld](https://img.shields.io/badge/Portworld-SBC-yellowgreen?style=for-the-badge)](https://github.com/papercodeIN/Portworld) -->
+[![Lilygo](https://img.shields.io/badge/Lilygo-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/Lilygo)
+[![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-yellow?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)
+[![ACEBOTT](https://img.shields.io/badge/ACEBOTT-red?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)
+[![Elecrow](https://img.shields.io/badge/Elecrow-yellowgreen?style=for-the-badge)](https://github.com/papercodeIN/Elecrow)
+[![ESP32](https://img.shields.io/badge/ESP-32-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/ESP)
 
 ## 🏭 IIoT Edge Software
 [![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
