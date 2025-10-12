@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 [![ArmSom](https://img.shields.io/badge/ArmSom-SBC-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
 [![LuckFox](https://img.shields.io/badge/LuckFox-SBC-yellow?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
 [![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-red?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
-[![Portworld](https://img.shields.io/badge/DRobotics-SBC-yellowgreen?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
+[![Portworld](https://img.shields.io/badge/Portworld-SBC-yellowgreen?style=for-the-badge)](github.com/papercodeIN/Portworld)
 
 ## 🏭 IIoT Edge Software Repositories
 
