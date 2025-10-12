@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## 🍓 SBC
 [![OrangePi](https://img.shields.io/badge/OrangePi-SBC-coral?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)
-[![BananaPi](https://img.shields.io/badge/BananaPi-SBC-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)
+[![BananaPi](https://img.shields.io/badge/BananaPi-SBC-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)
 
 [![ArmSom](https://img.shields.io/badge/ArmSom-SBC-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
 [![LuckFox](https://img.shields.io/badge/LuckFox-SBC-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ## 📟 Embedded
 [![Nextion-SONOFF](https://img.shields.io/badge/Nextion-SONOFF-coral?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
-[![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)
+[![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)
 
 [![WittelB](https://img.shields.io/badge/WittelB-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
 [![Lilygo](https://img.shields.io/badge/Lilygo-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Lilygo)
