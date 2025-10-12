@@ -52,6 +52,40 @@ Here are some ideas to get you started:
 [![Website + Store](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
 [![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-blue?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/pylin/extras)
 
+<table>
+  <tr>
+    <th>🍓 SBC</th>
+    <th>📟 Embedded</th>
+  </tr>
+  <tr>
+    <td>[![OrangePi](https://img.shields.io/badge/OrangePi-SBC-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)</td>
+    <td>[![Nextion-SONOFF](https://img.shields.io/badge/Nextion-SONOFF-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)</td>
+  </tr>
+  <tr>
+    <td>[![BananaPi](https://img.shields.io/badge/BananaPi-SBC-red?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)</td>
+    <td>[![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-red?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)</td>
+  </tr>
+  <tr>
+    <td>[![ArmSom](https://img.shields.io/badge/ArmSom-SBC-coral?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)</td>
+    <td>[![WittelB](https://img.shields.io/badge/WittelB-orange?style=for-the-badge)](https://github.com/papercodeIN/WittelB)</td>
+  </tr>
+  <tr>
+    <td>[![LuckFox](https://img.shields.io/badge/LuckFox-SBC-deeppink?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)</td>
+    <td>[![Lilygo](https://img.shields.io/badge/Lilygo-red?style=for-the-badge)](https://github.com/papercodeIN/Lilygo)</td>
+  </tr>
+  <tr>
+    <td>[![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)</td>
+    <td>[![ACEBOTT](https://img.shields.io/badge/ACEBOTT-green?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)</td>
+  </tr>
+  <tr>
+    <td>[![Portworld](https://img.shields.io/badge/Portworld-SBC-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/Portworld)</td>
+    <td>[![Elecrow](https://img.shields.io/badge/Elecrow-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/Elecrow)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>[![ESP32](https://img.shields.io/badge/ESP32-yellow?style=for-the-badge)](https://github.com/papercodeIN/ESP)</td>
+  </tr>
+</table>
 
 ## 🍓 SBC
 <!-- [![OrangePi](https://img.shields.io/badge/OrangePi-SBC-orange?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)
