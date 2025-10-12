@@ -52,14 +52,8 @@ Here are some ideas to get you started:
 [![Website + Store](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
 [![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-blue?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/pylin/extras)
 
-## 💖 Support My Work
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/pylin/)
-<!-- [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat&logo=paypal)](https://paypal.me/PlatimaCash) -->
-<!-- [![Patreon](https://img.shields.io/badge/Patreon-Support_My_Work-f96854?style=flat&logo=patreon)](https://patreon.com/platima) -->
-<!-- [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Platima-4078c0?style=flat&logo=github)](https://github.com/sponsors/platima) -->
 
-
-## 🍓 SBC Repositories
+## 🍓 SBC
 [![OrangePi](https://img.shields.io/badge/OrangePi-SBC-orange?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)
 [![BananaPi](https://img.shields.io/badge/BananaPi-SBC-blue?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)
 [![ArmSom](https://img.shields.io/badge/ArmSom-SBC-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
@@ -67,9 +61,22 @@ Here are some ideas to get you started:
 [![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-red?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
 [![Portworld](https://img.shields.io/badge/Portworld-SBC-yellowgreen?style=for-the-badge)](https://github.com/papercodeIN/Portworld)
 
-## 🏭 IIoT Edge Software Repositories
+## 🍓 Embedded
+[![Nextion-SONOFF](https://img.shields.io/badge/Nextion-SONOFF-orange?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
+[![WittelB](https://img.shields.io/badge/WittelB-blue?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
+<!-- [![ArmSom](https://img.shields.io/badge/ArmSom-SBC-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
+[![LuckFox](https://img.shields.io/badge/LuckFox-SBC-yellow?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
+[![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-red?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
+[![Portworld](https://img.shields.io/badge/Portworld-SBC-yellowgreen?style=for-the-badge)](https://github.com/papercodeIN/Portworld) -->
 
+## 🏭 IIoT Edge Software
 [![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
+
+## 💖 Support My Work
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/pylin/)
+<!-- [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat&logo=paypal)](https://paypal.me/PlatimaCash) -->
+<!-- [![Patreon](https://img.shields.io/badge/Patreon-Support_My_Work-f96854?style=flat&logo=patreon)](https://patreon.com/platima) -->
+<!-- [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Platima-4078c0?style=flat&logo=github)](https://github.com/sponsors/platima) -->
 
 
 <!-- [![Simulator Software](https://img.shields.io/badge/Simulator-Software-purple?style=flat)](https://github.com/papercodeIN/Simulator_Software_for_Training) -->
