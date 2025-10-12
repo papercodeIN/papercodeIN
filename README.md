@@ -73,6 +73,9 @@ Here are some ideas to get you started:
 ## 🏭 IIoT Edge Software Repositories
 [![HiveMQ Edge](https://img.shields.io/badge/HIveMQ-Edge-orange?style=flat)](https://github.com/papercodeIN/HiveMQ-Edge)
 
+[![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=flat-square)](https://github.com/papercodeIN/HiveMQ-Edge)
+
+
 
 <!-- [![Simulator Software](https://img.shields.io/badge/Simulator-Software-purple?style=flat)](https://github.com/papercodeIN/Simulator_Software_for_Training) -->
 
