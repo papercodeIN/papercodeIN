@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 [![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-coral?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
 [![FUXA_SCADA](https://img.shields.io/badge/FUXA-SCADA-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/FUXA_SCADA)
 [![N3uron](https://img.shields.io/badge/N3uron-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/N3uron)
+[![NeuronEX](https://img.shields.io/badge/NeuronEX-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/NeuronEX)
 
 
 ## 💖 Support My Work
