@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 [![BananaPi](https://img.shields.io/badge/BananaPi-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)
 [![ArmSom](https://img.shields.io/badge/ArmSom-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
 [![LuckFox](https://img.shields.io/badge/LuckFox-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
-[![D-Robotics](https://img.shields.io/badge/DRobotics-yellow?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
+[![D-Robotics](https://img.shields.io/badge/DRobotics-%23FF0000?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
 [![Portworld](https://img.shields.io/badge/Portworld-teal?style=for-the-badge)](https://github.com/papercodeIN/Portworld)
 [![Debix](https://img.shields.io/badge/Debix-dodgerblue?style=for-the-badge)](https://github.com/papercodeIN/Debix)
 
