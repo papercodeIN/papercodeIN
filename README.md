@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 ## 🏭 IIoT Edge Software
 [![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-coral?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
 [![N3uron](https://img.shields.io/badge/N3uron-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/N3uron)
+[![FUXA_SCADA](https://img.shields.io/badge/FUXA-SCADA-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/FUXA_SCADA)
 
 ## 💖 Support My Work
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/pylin/)
