@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 [![LuckFox](https://img.shields.io/badge/LuckFox-SBC-deeppink?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
 [![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
 [![Portworld](https://img.shields.io/badge/Portworld-SBC-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/Portworld)
+[![Debix](https://img.shields.io/badge/Debix-SBC-teal?style=for-the-badge)](https://github.com/papercodeIN/Debix)
 
 ## 📟 Embedded
 [![Nextion-SONOFF](https://img.shields.io/badge/Nextion-SONOFF-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
