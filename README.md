@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 [![WittelB](https://img.shields.io/badge/WittelB-orange?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
 [![Lilygo](https://img.shields.io/badge/Lilygo-red?style=for-the-badge)](https://github.com/papercodeIN/Lilygo)
 [![ACEBOTT](https://img.shields.io/badge/ACEBOTT-green?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)
-[![Elecrow](https://img.shields.io/badge/Elecrow-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/Elecrow)
+[![Elecrow](https://img.shields.io/badge/Elecrow-teal?style=for-the-badge)](https://github.com/papercodeIN/Elecrow)
 [![ESP32](https://img.shields.io/badge/ESP32-yellow?style=for-the-badge)](https://github.com/papercodeIN/ESP)
 [![Norvi](https://img.shields.io/badge/Norvi-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/Norvi)
 
