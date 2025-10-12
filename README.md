@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 [![ACEBOTT](https://img.shields.io/badge/ACEBOTT-green?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)  
 [![Elecrow](https://img.shields.io/badge/Elecrow-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/Elecrow)  
 [![ESP32](https://img.shields.io/badge/ESP32-yellow?style=for-the-badge)](https://github.com/papercodeIN/ESP)
-[![Norvi](https://img.shields.io/badge/Norvi-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/Norvi)
+[![Norvi](https://img.shields.io/badge/Norvi-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/Norvi)
 
 
 
