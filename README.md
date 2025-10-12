@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 [![Debix](https://img.shields.io/badge/Debix-dodgerblue?style=for-the-badge)](https://github.com/papercodeIN/Debix)
 
 ## 📟 Embedded
-[![Nextion-SONOFF](https://img.shields.io/badge/Nextion SONOFF-teal?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
-[![RPI-PICO](https://img.shields.io/badge/RaspberryPi Pico-teal?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)
+[![Nextion-SONOFF](https://img.shields.io/badge/Nextion_SONOFF-teal?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
+[![RPI-PICO](https://img.shields.io/badge/RaspberryPi_Pico-teal?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)
 [![WittelB](https://img.shields.io/badge/WittelB-teal?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
 [![Lilygo](https://img.shields.io/badge/Lilygo-teal?style=for-the-badge)](https://github.com/papercodeIN/Lilygo)
 [![ACEBOTT](https://img.shields.io/badge/ACEBOTT-teal?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)
