@@ -60,24 +60,16 @@ Here are some ideas to get you started:
 
 
 ## 🍓 SBC Repositories
-[![OrangePi](https://img.shields.io/badge/OrangePi-SBC-orange?style=flat)](https://github.com/papercodeIN/OrangePi)
+[![OrangePi](https://img.shields.io/badge/OrangePi-SBC-orange?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)
+[![BananaPi](https://img.shields.io/badge/BananaPi-SBC-blue?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)
 
-[![BananaPi](https://img.shields.io/badge/BananaPi-SBC-blue?style=flat)](https://github.com/papercodeIN/BananaPi)
+[![ArmSom](https://img.shields.io/badge/ArmSom-SBC-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
 
-[![ArmSom](https://img.shields.io/badge/ArmSom-SBC-brightgreen?style=flat)](https://github.com/papercodeIN/ArmSom)
+[![LuckFox](https://img.shields.io/badge/LuckFox-SBC-yellow?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
 
-[![LuckFox](https://img.shields.io/badge/LuckFox-SBC-yellow?style=flat)](https://github.com/papercodeIN/Luckfox)
-
-[![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-red?style=flat)](https://github.com/papercodeIN/D-Robotics)
+[![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-red?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
 
 ## 🏭 IIoT Edge Software Repositories
-[![HiveMQ Edge](https://img.shields.io/badge/HIveMQ-Edge-orange?style=flat)](https://github.com/papercodeIN/HiveMQ-Edge)
-
-[![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=flat-square)](https://github.com/papercodeIN/HiveMQ-Edge)
-
-[![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=plastic)](https://github.com/papercodeIN/HiveMQ-Edge)
-
-[![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=social)](https://github.com/papercodeIN/HiveMQ-Edge)
 
 [![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
 
