@@ -75,6 +75,11 @@ Here are some ideas to get you started:
 
 [![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=flat-square)](https://github.com/papercodeIN/HiveMQ-Edge)
 
+[![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=plastic)](https://github.com/papercodeIN/HiveMQ-Edge)
+
+[![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=social)](https://github.com/papercodeIN/HiveMQ-Edge)
+
+[![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
 
 
 <!-- [![Simulator Software](https://img.shields.io/badge/Simulator-Software-purple?style=flat)](https://github.com/papercodeIN/Simulator_Software_for_Training) -->
