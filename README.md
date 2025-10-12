@@ -126,9 +126,6 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=platima&theme=radical&langs_count=3)
-![](https://github-readme-stats.vercel.app/api?username=platima&show_icons=true&line_height=27&theme=radical)
 
 ## ⭐ Featured Repositories
 [![Enhanced Braindump Format](https://img.shields.io/badge/Enhanced_Braindump_Format-EBF-brightgreen?style=flat)](https://github.com/platima/enhanced-braindump-format) A compact, machine-optimized format for efficient context transfer between AI assistant conversations.
@@ -152,3 +149,7 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 ## 🛒 Shop & Resources
 [![Website + Store](https://img.shields.io/badge/Website-Visit_Website-coral?style=for-the-badge)](https://fusionautomate.in/)
 [![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-%23FF0000?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/pylin/extras)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=papercodeIN&theme=radical&langs_count=3)
+![](https://github-readme-stats.vercel.app/api?username=papercodeIN&show_icons=true&line_height=27&theme=radical)
