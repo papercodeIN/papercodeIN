@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 [![Norvi](https://img.shields.io/badge/Norvi-teal?style=for-the-badge)](https://github.com/papercodeIN/Norvi)
 
 ## 🏭 IIoT Edge Software
-[![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
-[![FUXA_SCADA](https://img.shields.io/badge/FUXA-SCADA-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/FUXA_SCADA)
+[![HiveMQ Edge](https://img.shields.io/badge/HiveMQ_Edge-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
+[![FUXA_SCADA](https://img.shields.io/badge/FUXA_SCADA-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/FUXA_SCADA)
 [![N3uron](https://img.shields.io/badge/N3uron-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/N3uron)
 [![NeuronEX](https://img.shields.io/badge/NeuronEX-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/NeuronEX)
 
