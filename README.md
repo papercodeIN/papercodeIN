@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 [![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)
 [![WittelB](https://img.shields.io/badge/WittelB-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
 [![Lilygo](https://img.shields.io/badge/Lilygo-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Lilygo)
-[![ACEBOTT](https://img.shields.io/badge/ACEBOTT-yellow?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)
+[![ACEBOTT](https://img.shields.io/badge/ACEBOTT-%23FF0000?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)
 [![Elecrow](https://img.shields.io/badge/Elecrow-teal?style=for-the-badge)](https://github.com/papercodeIN/Elecrow)
 [![ESP32](https://img.shields.io/badge/ESP32-dodgerblue?style=for-the-badge)](https://github.com/papercodeIN/ESP)
 [![Norvi](https://img.shields.io/badge/Norvi-indigo?style=for-the-badge)](https://github.com/papercodeIN/Norvi)
