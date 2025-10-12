@@ -63,12 +63,12 @@ Here are some ideas to get you started:
 
 ## 🍓 Embedded
 [![Nextion-SONOFF](https://img.shields.io/badge/Nextion-SONOFF-orange?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
+[![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-yellow?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)
 [![WittelB](https://img.shields.io/badge/WittelB-blue?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
 [![Lilygo](https://img.shields.io/badge/Lilygo-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/Lilygo)
-[![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-yellow?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)
 [![ACEBOTT](https://img.shields.io/badge/ACEBOTT-red?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)
 [![Elecrow](https://img.shields.io/badge/Elecrow-yellowgreen?style=for-the-badge)](https://github.com/papercodeIN/Elecrow)
-[![ESP32](https://img.shields.io/badge/ESP-32-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/ESP)
+[![ESP32](https://img.shields.io/badge/ESP32-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/ESP)
 
 ## 🏭 IIoT Edge Software
 [![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-orange?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
