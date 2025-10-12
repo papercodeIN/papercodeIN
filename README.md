@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 [![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-red?style=flat)](https://github.com/papercodeIN/D-Robotics)
 
 ## 🏭 IIoT Edge Software Repositories
-[![HiveMQ Edge](https://img.shields.io/badge/OrangePi-SBC-orange?style=flat)](https://github.com/papercodeIN/HiveMQ-Edge)
+[![HiveMQ Edge](https://img.shields.io/badge/HIveMQ-Edge-orange?style=flat)](https://github.com/papercodeIN/HiveMQ-Edge)
 
 
 <!-- [![Simulator Software](https://img.shields.io/badge/Simulator-Software-purple?style=flat)](https://github.com/papercodeIN/Simulator_Software_for_Training) -->
