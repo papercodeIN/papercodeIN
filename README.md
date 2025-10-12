@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 [![SBC Images](https://img.shields.io/badge/SBC_Images-Custom_Builds-orange?style=flat)](https://github.com/platima/Images) Custom built OS images for various single-board computers with improvements over stock versions. -->
 
-<!-- [![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
+
 
 <!-- [![YouTube Food](https://img.shields.io/badge/YouTube-Platima-red?style=flat&logo=youtube)](https://youtube.com/@platima)
 [![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://www.instagram.com/platimatinkers)
@@ -138,6 +138,7 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 [![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://instagram.com/fusion_automate)
 [![LinkedIn](https://img.shields.io/badge/LinkdIn-FusionAutomate-purple?style=flat)](https://www.linkedin.com/company/fusion-automate/) -->
 
+[![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com)
 
 ## 🛒 Shop & Resources
 [![Website + Store](https://img.shields.io/badge/Website-Visit_Website-coral?style=for-the-badge)](https://fusionautomate.in/)
