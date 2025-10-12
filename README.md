@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <!-- [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Platima-4078c0?style=flat&logo=github)](https://github.com/sponsors/platima) -->
 
 
-## ⭐ SBC Repositories
+## 🍓 SBC Repositories
 [![OrangePi](https://img.shields.io/badge/OrangePi-SBC-orange?style=flat)](https://github.com/papercodeIN/OrangePi)
 
 [![BananaPi](https://img.shields.io/badge/BananaPi-SBC-blue?style=flat)](https://github.com/papercodeIN/BananaPi)
@@ -69,6 +69,10 @@ Here are some ideas to get you started:
 [![LuckFox](https://img.shields.io/badge/LuckFox-SBC-yellow?style=flat)](https://github.com/papercodeIN/Luckfox)
 
 [![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-red?style=flat)](https://github.com/papercodeIN/D-Robotics)
+
+## 🏭 IIoT Edge Software Repositories
+[![HiveMQ Edge](https://img.shields.io/badge/OrangePi-SBC-orange?style=flat)](https://github.com/papercodeIN/HiveMQ-Edge)
+
 
 <!-- [![Simulator Software](https://img.shields.io/badge/Simulator-Software-purple?style=flat)](https://github.com/papercodeIN/Simulator_Software_for_Training) -->
 
