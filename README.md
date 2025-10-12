@@ -49,9 +49,10 @@ Here are some ideas to get you started:
 ## 🍓 SBC
 [![OrangePi](https://img.shields.io/badge/OrangePi-SBC-coral?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)
 [![BananaPi](https://img.shields.io/badge/BananaPi-SBC-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)
-[![ArmSom](https://img.shields.io/badge/ArmSom-SBC-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
 
+[![ArmSom](https://img.shields.io/badge/ArmSom-SBC-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
 [![LuckFox](https://img.shields.io/badge/LuckFox-SBC-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
+
 [![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-yellow?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
 [![Portworld](https://img.shields.io/badge/Portworld-SBC-teal?style=for-the-badge)](https://github.com/papercodeIN/Portworld)
 
@@ -60,9 +61,10 @@ Here are some ideas to get you started:
 ## 📟 Embedded
 [![Nextion-SONOFF](https://img.shields.io/badge/Nextion-SONOFF-coral?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
 [![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)
-[![WittelB](https://img.shields.io/badge/WittelB-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
 
+[![WittelB](https://img.shields.io/badge/WittelB-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
 [![Lilygo](https://img.shields.io/badge/Lilygo-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Lilygo)
+
 [![ACEBOTT](https://img.shields.io/badge/ACEBOTT-yellow?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)
 [![Elecrow](https://img.shields.io/badge/Elecrow-teal?style=for-the-badge)](https://github.com/papercodeIN/Elecrow)
 
@@ -71,8 +73,10 @@ Here are some ideas to get you started:
 
 ## 🏭 IIoT Edge Software
 [![HiveMQ Edge](https://img.shields.io/badge/HiveMQ-Edge-coral?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
-[![N3uron](https://img.shields.io/badge/N3uron-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/N3uron)
 [![FUXA_SCADA](https://img.shields.io/badge/FUXA-SCADA-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/FUXA_SCADA)
+
+[![N3uron](https://img.shields.io/badge/N3uron-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/N3uron)
+
 
 ## 💖 Support My Work
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/pylin/)
