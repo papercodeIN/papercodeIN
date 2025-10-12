@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 [![YouTube](https://img.shields.io/badge/YouTube-FusionAutomate-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Fusion_Automate)  
 [![Dailymotion](https://img.shields.io/badge/Dailymotion-FusionAutomate-%230072C6?style=for-the-badge&logo=dailymotion)](https://www.dailymotion.com/fusionautomate)  
 [![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-%2320D161?style=for-the-badge&logo=rumble)](http://rumble.com/c/Fusion_Automate)
-                                                                                                           
+
 ## 🍓 SBC
 [![OrangePi](https://img.shields.io/badge/OrangePi-SBC-coral?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)
 [![BananaPi](https://img.shields.io/badge/BananaPi-SBC-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)
@@ -71,6 +71,8 @@ Here are some ideas to get you started:
 
 ## 💖 Support My Work
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/pylin/)
+                                                                                                           
+
 <!-- [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat&logo=paypal)](https://paypal.me/PlatimaCash) -->
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-Support_My_Work-f96854?style=flat&logo=patreon)](https://patreon.com/platima) -->
 <!-- [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Platima-4078c0?style=flat&logo=github)](https://github.com/sponsors/platima) -->
