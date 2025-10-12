@@ -45,18 +45,6 @@ Here are some ideas to get you started:
 [![YouTube](https://img.shields.io/badge/YouTube-FusionAutomate-%23FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Fusion_Automate)  
 [![Dailymotion](https://img.shields.io/badge/Dailymotion-FusionAutomate-%230072C6?style=for-the-badge&logo=dailymotion)](https://www.dailymotion.com/fusionautomate)  
 [![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-%2320D161?style=for-the-badge&logo=rumble)](http://rumble.com/c/Fusion_Automate)
-
-
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-FusionAutomate-red?style=flat&logo=youtube)](https://www.youtube.com/@Fusion_Automate)
-[![Dailymotion](https://img.shields.io/badge/Dailymotion-FusionAutomate-red?style=flat&logo=dailymotion)](https://www.dailymotion.com/fusionautomate)
-[![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-red?style=flat&logo=rumble)](http://rumble.com/c/Fusion_Automate)
-[![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://instagram.com/fusion_automate)
-[![LinkedIn](https://img.shields.io/badge/LinkdIn-FusionAutomate-purple?style=flat)](https://www.linkedin.com/company/fusion-automate/) -->
-
-
-## 🛒 Shop & Resources
-[![Website + Store](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
-[![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-blue?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/pylin/extras)
                                                                                                            
 ## 🍓 SBC
 <!-- [![OrangePi](https://img.shields.io/badge/OrangePi-SBC-orange?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)
@@ -158,3 +146,15 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 ---
 
 💬 **Want to collaborate or have questions?** Feel free to reach out on any of my social platforms! -->
+
+
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-FusionAutomate-red?style=flat&logo=youtube)](https://www.youtube.com/@Fusion_Automate)
+[![Dailymotion](https://img.shields.io/badge/Dailymotion-FusionAutomate-red?style=flat&logo=dailymotion)](https://www.dailymotion.com/fusionautomate)
+[![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-red?style=flat&logo=rumble)](http://rumble.com/c/Fusion_Automate)
+[![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://instagram.com/fusion_automate)
+[![LinkedIn](https://img.shields.io/badge/LinkdIn-FusionAutomate-purple?style=flat)](https://www.linkedin.com/company/fusion-automate/) -->
+
+
+## 🛒 Shop & Resources
+[![Website + Store](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
+[![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-blue?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/pylin/extras)
