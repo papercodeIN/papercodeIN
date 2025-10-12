@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 [![N3uron](https://img.shields.io/badge/N3uron-darkcyan?style=for-the-badge)](https://github.com/papercodeIN/N3uron)
 
 ## 💖 Support My Work
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/pylin/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Donate-blue?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/pylin/)
 <!-- [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=flat&logo=paypal)](https://paypal.me/PlatimaCash) -->
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-Support_My_Work-f96854?style=flat&logo=patreon)](https://patreon.com/platima) -->
 <!-- [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Platima-4078c0?style=flat&logo=github)](https://github.com/sponsors/platima) -->
