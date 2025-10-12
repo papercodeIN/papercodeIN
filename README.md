@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 [![Rumble](https://img.shields.io/badge/Rumble-FusionAutomate-%2320D161?style=for-the-badge&logo=rumble)](http://rumble.com/c/Fusion_Automate)
 
 ## 🍓 SBC
-[![OrangePi](https://img.shields.io/badge/OrangePi-SBC-coral?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)
-[![BananaPi](https://img.shields.io/badge/BananaPi-SBC-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)
-[![ArmSom](https://img.shields.io/badge/ArmSom-SBC-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
-[![LuckFox](https://img.shields.io/badge/LuckFox-SBC-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
-[![D-Robotics](https://img.shields.io/badge/DRobotics-SBC-yellow?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
-[![Portworld](https://img.shields.io/badge/Portworld-SBC-teal?style=for-the-badge)](https://github.com/papercodeIN/Portworld)
-[![Debix](https://img.shields.io/badge/Debix-SBC-dodgerblue?style=for-the-badge)](https://github.com/papercodeIN/Debix)
+[![OrangePi](https://img.shields.io/badge/OrangePi-coral?style=for-the-badge)](https://github.com/papercodeIN/OrangePi)
+[![BananaPi](https://img.shields.io/badge/BananaPi-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/BananaPi)
+[![ArmSom](https://img.shields.io/badge/ArmSom-goldenrod?style=for-the-badge)](https://github.com/papercodeIN/ArmSom)
+[![LuckFox](https://img.shields.io/badge/LuckFox-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
+[![D-Robotics](https://img.shields.io/badge/DRobotics-yellow?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
+[![Portworld](https://img.shields.io/badge/Portworld-teal?style=for-the-badge)](https://github.com/papercodeIN/Portworld)
+[![Debix](https://img.shields.io/badge/Debix-dodgerblue?style=for-the-badge)](https://github.com/papercodeIN/Debix)
 
 ## 📟 Embedded
 [![Nextion-SONOFF](https://img.shields.io/badge/Nextion-SONOFF-coral?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
@@ -81,11 +81,11 @@ Here are some ideas to get you started:
 
 <!-- [![Simulator Software](https://img.shields.io/badge/Simulator-Software-purple?style=flat)](https://github.com/papercodeIN/Simulator_Software_for_Training) -->
 
-<!-- [![Orange Pi](https://img.shields.io/badge/OrangePi-SBC-brightgreen?style=flat)](https://github.com/papercodeIN/OrangePi) -->
+<!-- [![Orange Pi](https://img.shields.io/badge/OrangePi-brightgreen?style=flat)](https://github.com/papercodeIN/OrangePi) -->
 
 <!-- [![Board Taxonomies](https://img.shields.io/badge/Board_Taxonomies-Documentation-blue?style=flat)](https://github.com/platima/Board-Taxonomies) Clear definitions and categorization for different types of embedded computing boards (SBCs, Compute Modules, etc.).
 
-[![SBC Images](https://img.shields.io/badge/SBC_Images-Custom_Builds-orange?style=flat)](https://github.com/platima/SBC-Images) Custom built OS images for various single-board computers with improvements over stock versions. -->
+[![SBC Images](https://img.shields.io/badge/SBC_Images-Custom_Builds-orange?style=flat)](https://github.com/platima/Images) Custom built OS images for various single-board computers with improvements over stock versions. -->
 
 <!-- [![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
 
@@ -115,7 +115,7 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 ![](https://img.shields.io/badge/OS-Linux_Mint_Mate-informational?style=flat&logo=linuxmint)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim)
 ![](https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=gnubash)
-![](https://img.shields.io/badge/SBC-All_of_Them-informational?style=flat&logo=raspberrypi)
+![](https://img.shields.io/badge/All_of_Them-informational?style=flat&logo=raspberrypi)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c)
 
@@ -125,7 +125,7 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 
 [![Board Taxonomies](https://img.shields.io/badge/Board_Taxonomies-Documentation-blue?style=flat)](https://github.com/platima/Board-Taxonomies) Clear definitions and categorization for different types of embedded computing boards (SBCs, Compute Modules, etc.).
 
-[![SBC Images](https://img.shields.io/badge/SBC_Images-Custom_Builds-orange?style=flat)](https://github.com/platima/SBC-Images) Custom built OS images for various single-board computers with improvements over stock versions.
+[![SBC Images](https://img.shields.io/badge/SBC_Images-Custom_Builds-orange?style=flat)](https://github.com/platima/Images) Custom built OS images for various single-board computers with improvements over stock versions.
 
 ---
 
