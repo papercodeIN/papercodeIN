@@ -138,7 +138,7 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 [![Instagram](https://img.shields.io/badge/Instagram-FusionAutomate-purple?style=flat&logo=instagram)](https://instagram.com/fusion_automate)
 [![LinkedIn](https://img.shields.io/badge/LinkdIn-FusionAutomate-purple?style=flat)](https://www.linkedin.com/company/fusion-automate/) -->
 
-[![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com)
+<!-- [![Link Tree](https://img.shields.io/badge/LinkTree-Check_Rankings-yellow?style=flat&logo=stackexchange)](https://sbctierlist.com) -->
 
 ## 🛒 Shop & Resources
 [![Website + Store](https://img.shields.io/badge/Website-Visit_Website-coral?style=for-the-badge)](https://fusionautomate.in/)
