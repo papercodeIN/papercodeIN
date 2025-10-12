@@ -150,5 +150,5 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 
 
 ## 🛒 Shop & Resources
-[![Website + Store](https://img.shields.io/badge/Website-Visit_Website-blue?style=flat)](https://fusionautomate.in/)
-[![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-blue?style=flat&logo=buymeacoffee)](https://buymeacoffee.com/pylin/extras)
+[![Website + Store](https://img.shields.io/badge/Website-Visit_Website-coral?style=for-the-badge)](https://fusionautomate.in/)
+[![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-%23FF0000?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/pylin/extras)
