@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 [![ESP32](https://img.shields.io/badge/ESP32-brightgreen?style=for-the-badge)](https://github.com/papercodeIN/ESP) -->
 
 [![Nextion-SONOFF](https://img.shields.io/badge/Nextion-SONOFF-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)  
-[![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-lightgrey?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)  
+[![RPI-PICO](https://img.shields.io/badge/RaspberryPi-Pico-red?style=for-the-badge)](https://github.com/papercodeIN/RPI-PICO)  
 [![WittelB](https://img.shields.io/badge/WittelB-orange?style=for-the-badge)](https://github.com/papercodeIN/WittelB)  
 [![Lilygo](https://img.shields.io/badge/Lilygo-red?style=for-the-badge)](https://github.com/papercodeIN/Lilygo)  
 [![ACEBOTT](https://img.shields.io/badge/ACEBOTT-green?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)  
