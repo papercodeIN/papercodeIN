@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 [![D-Robotics](https://img.shields.io/badge/DRobotics-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
 [![Portworld](https://img.shields.io/badge/Portworld-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/Portworld)
 [![Debix](https://img.shields.io/badge/Debix-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/Debix)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry-Pi-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/Raspberry-Pi)
 
 ## 📟 Embedded
 [![Nextion-SONOFF](https://img.shields.io/badge/Nextion_SONOFF-teal?style=for-the-badge)](https://github.com/papercodeIN/Nextion-SONOFF)
