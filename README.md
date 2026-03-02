@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 [![Elecrow](https://img.shields.io/badge/Elecrow-teal?style=for-the-badge)](https://github.com/papercodeIN/Elecrow)
 [![ESP32](https://img.shields.io/badge/ESP32-teal?style=for-the-badge)](https://github.com/papercodeIN/ESP)
 [![Norvi](https://img.shields.io/badge/Norvi-teal?style=for-the-badge)](https://github.com/papercodeIN/Norvi)
+[![Unihiker K10](https://img.shields.io/badge/Norvi-teal?style=for-the-badge)](https://github.com/papercodeIN/Unihiker-K10)
 
 ## 🏭 IIoT Edge Software
 [![HiveMQ Edge](https://img.shields.io/badge/HiveMQ_Edge-blueviolet?style=for-the-badge)](https://github.com/papercodeIN/HiveMQ-Edge)
