@@ -147,7 +147,9 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 
 ## 🛒 Shop & Resources
 [![I sell on Tindie](https://static.tindie.com/badges/tindie-larges.png)](https://www.tindie.com/stores/fusion_automate/?ref=offsite_badges&utm_source=sellers_FusionAutomate&utm_medium=badges&utm_campaign=badge_large)
+
 [![Website + Store](https://img.shields.io/badge/Website-Visit_Website-blueviolet?style=for-the-badge)](https://fusionautomate.in/)
+
 [![Buy Me a Coffee Store](https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-%23FF0000?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/pylin/extras)
 
 ## 📊 GitHub Stats
