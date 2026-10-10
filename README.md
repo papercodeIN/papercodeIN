@@ -52,12 +52,9 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=papercodeIN&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats" width="400" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papercodeIN&theme=radical&langs_count=5" alt="Top Languages" width="400" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=papercodeIN&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
