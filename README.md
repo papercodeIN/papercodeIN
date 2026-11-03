@@ -40,7 +40,7 @@
 [![Unihiker K10](https://img.shields.io/badge/Unihiker_K10-teal?style=for-the-badge)](https://github.com/papercodeIN/Unihiker-K10)
 [![WittelB](https://img.shields.io/badge/WittelB-teal?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
 [![ACEBOTT](https://img.shields.io/badge/ACEBOTT-teal?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)
-[![VIEWE DISPLAY](https://img.shields.io/badge/ACEBOTT-teal?style=for-the-badge)](https://github.com/papercodeIN/Viewe_Display)
+[![VIEWE DISPLAY](https://img.shields.io/badge/VIEWE_DISPLAY-teal?style=for-the-badge)](https://github.com/papercodeIN/Viewe_Display)
 
 ## 🏭 IIoT Edge Software
 
