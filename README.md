@@ -76,7 +76,7 @@
 [![Norvi](https://img.shields.io/badge/Norvi-teal?style=for-the-badge)](https://github.com/papercodeIN/Norvi)
 [![Unihiker K10](https://img.shields.io/badge/Unihiker_K10-teal?style=for-the-badge)](https://github.com/papercodeIN/Unihiker-K10)
 [![WittelB](https://img.shields.io/badge/WittelB-teal?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
-[![ACEBOTT](https://img.shields.io/badge/ACEBOTT-teal?style=for-the-badge)](https://github.com/papercodeIN/ACEBOTT)
+[![STEAM KIT](https://img.shields.io/badge/STEAM_KIT-teal?style=for-the-badge)](https://github.com/papercodeIN/STEAM_KIT)
 [![VIEWE DISPLAY](https://img.shields.io/badge/VIEWE_DISPLAY-teal?style=for-the-badge)](https://github.com/papercodeIN/Viewe_Display)
 
 ## 🏭 IIoT Edge Software
@@ -90,49 +90,79 @@
 
 ## ⭐ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/papercodeIN/OpenOPC-PyModbus-Snap7-MQTT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=OpenOPC-PyModbus-Snap7-MQTT&theme=radical" alt="OpenOPC-PyModbus-Snap7-MQTT" />
-  </a>
-  <a href="https://github.com/papercodeIN/ESP_AdBlock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=ESP_AdBlock&theme=radical" alt="ESP_AdBlock" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/papercodeIN/RPI-PICO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=RPI-PICO&theme=radical" alt="RPI-PICO" />
-  </a>
-  <a href="https://github.com/papercodeIN/png2webp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=png2webp&theme=radical" alt="png2webp" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/papercodeIN/LocalVault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=LocalVault&theme=radical" alt="LocalVault" />
-  </a>
-  <a href="https://github.com/papercodeIN/ATtiny85-Mouse-Jiggler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=ATtiny85-Mouse-Jiggler&theme=radical" alt="ATtiny85-Mouse-Jiggler" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/OpenOPC-PyModbus-Snap7-MQTT"><b>OpenOPC-PyModbus-Snap7-MQTT</b></a><br>
+      <sub>Industrial automation toolkit — OPC, Modbus, MQTT, BACnet &amp; more</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/OpenOPC-PyModbus-Snap7-MQTT?style=social" alt="stars">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/RPI-PICO"><b>RPI-PICO</b></a><br>
+      <sub>MicroPython on Pico W — Modbus, MQTT, PostgreSQL, Telegram</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/RPI-PICO?style=social" alt="stars">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/ESP_AdBlock"><b>ESP_AdBlock</b></a><br>
+      <sub>Pi-hole style DNS sinkhole for ESP32 / ESP8266 / Pico W</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/ESP_AdBlock?style=social" alt="stars">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/LocalVault"><b>LocalVault</b></a><br>
+      <sub>Offline password manager — AES-256-GCM, no cloud</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/LocalVault?style=social" alt="stars">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/png2webp"><b>png2webp</b></a><br>
+      <sub>Image → WebP converter, 100% in-browser, no uploads</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/png2webp?style=social" alt="stars">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/ATtiny85-Mouse-Jiggler"><b>ATtiny85-Mouse-Jiggler</b></a><br>
+      <sub>Digispark ATtiny85 USB mouse jiggler + Windows flasher</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/ATtiny85-Mouse-Jiggler?style=social" alt="stars">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/OmniRoute"><b>OmniRoute</b></a><br>
+      <sub>Free local AI coding gateway — 2000+ models, ranked coding combos</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/OmniRoute?style=social" alt="stars">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/Elecrow-Coin-Collector"><b>Elecrow Coin Collector</b></a><br>
+      <sub>Automated daily Elecrow community check-in — Python + Playwright</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/Elecrow-Coin-Collector?style=social" alt="stars">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/Viewe_Display"><b>Viewe Display</b></a><br>
+      <sub>VIEWE 5-inch ESP32-S3 smart display — Bluetooth Stream Deck &amp; more</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/Viewe_Display?style=social" alt="stars">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/papercodeIN/Nextion-SONOFF"><b>Nextion-SONOFF</b></a><br>
+      <sub>Nextion HMI projects with .HMI files + ESP32/ESP8266/Pico firmware</sub><br>
+      <img src="https://img.shields.io/github/stars/papercodeIN/Nextion-SONOFF?style=social" alt="stars">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papercodeIN&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papercodeIN&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://img.shields.io/github/followers/papercodeIN?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/papercodeIN?affiliations=OWNER&label=Total%20Stars&style=social" alt="Total Stars" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=papercodeIN&theme=radical&locale=en" alt="GitHub Streak" height="165" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=papercodeIN&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -155,6 +185,10 @@
 | Call / WhatsApp | [+91-9974477759](https://wa.me/919974477759) |
 | Telegram | [@fusionautomate](https://t.me/fusionautomate) |
 | Email | [eng.innovativ@gmail.com](mailto:eng.innovativ@gmail.com) |
+| X (Twitter) | [@fusion_automate](https://x.com/fusion_automate) |
+| Instagram | [@fusion_automate](https://www.instagram.com/fusion_automate) |
+| YouTube | [Fusion Automate](https://www.youtube.com/@Fusion_Automate) |
+| Website | [fusionautomate.in](https://fusionautomate.in/) |
 
 ---
 
