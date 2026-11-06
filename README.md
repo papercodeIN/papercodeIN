@@ -90,14 +90,30 @@
 
 ## ⭐ Featured Projects
 
-| 📦 Project | 📝 What it is |
-|-----------|--------------|
-| [OpenOPC-PyModbus-Snap7-MQTT](https://github.com/papercodeIN/OpenOPC-PyModbus-Snap7-MQTT) | Industrial automation toolkit — OPC DA/UA, Modbus, MQTT, BACnet, IEC-104, DNP3 |
-| [RPI-PICO](https://github.com/papercodeIN/RPI-PICO) | MicroPython on Pico W — Modbus TCP/RTU, MQTT, PostgreSQL, Telegram |
-| [ESP_AdBlock](https://github.com/papercodeIN/ESP_AdBlock) | Pi-hole style DNS sinkhole for ESP32-C3 / ESP8266 / Pico W |
-| [LocalVault](https://github.com/papercodeIN/LocalVault) | Offline password manager — AES-256-GCM, no cloud |
-| [png2webp](https://github.com/papercodeIN/png2webp) | In-browser image → WebP converter — private, no uploads |
-| [ATtiny85-Mouse-Jiggler](https://github.com/papercodeIN/ATtiny85-Mouse-Jiggler) | Digispark ATtiny85 USB mouse jiggler + Windows flasher |
+<p align="center">
+  <a href="https://github.com/papercodeIN/OpenOPC-PyModbus-Snap7-MQTT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=OpenOPC-PyModbus-Snap7-MQTT&theme=radical" alt="OpenOPC-PyModbus-Snap7-MQTT" />
+  </a>
+  <a href="https://github.com/papercodeIN/ESP_AdBlock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=ESP_AdBlock&theme=radical" alt="ESP_AdBlock" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/papercodeIN/RPI-PICO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=RPI-PICO&theme=radical" alt="RPI-PICO" />
+  </a>
+  <a href="https://github.com/papercodeIN/png2webp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=png2webp&theme=radical" alt="png2webp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/papercodeIN/LocalVault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=LocalVault&theme=radical" alt="LocalVault" />
+  </a>
+  <a href="https://github.com/papercodeIN/ATtiny85-Mouse-Jiggler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=papercodeIN&repo=ATtiny85-Mouse-Jiggler&theme=radical" alt="ATtiny85-Mouse-Jiggler" />
+  </a>
+</p>
 
 ---
 
@@ -106,6 +122,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=papercodeIN&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papercodeIN&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=papercodeIN&theme=radical&locale=en" alt="GitHub Streak" height="165" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=papercodeIN&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
