@@ -1,19 +1,57 @@
-
-<h1 align="center">👋 Welcome to Fusion Automate's GitHub</h1>
+<h1 align="center">👋 Welcome to Fusion Automate</h1>
 
 <p align="center">
-  <em>Exploring SBCs, Embedded Systems & Industrial IoT</em>
+  <em>Instrumentation & Control Engineer · Industrial IoT · SCADA · Embedded Systems</em>
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/@Fusion_Automate"><img src="https://img.shields.io/badge/YouTube-FusionAutomate-%23FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  <a href="https://www.dailymotion.com/fusionautomate"><img src="https://img.shields.io/badge/Dailymotion-FusionAutomate-%230072C6?style=for-the-badge&logo=dailymotion" alt="Dailymotion"></a>
-  <a href="http://rumble.com/c/Fusion_Automate"><img src="https://img.shields.io/badge/Rumble-FusionAutomate-%2320D161?style=for-the-badge&logo=rumble" alt="Rumble"></a>
+  <a href="https://www.instagram.com/fusion_automate"><img src="https://img.shields.io/badge/Instagram-fusion__automate-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://x.com/fusion_automate"><img src="https://img.shields.io/badge/X-fusion__automate-000000?style=for-the-badge&logo=x" alt="X (Twitter)"></a>
+  <a href="https://t.me/fusionautomate"><img src="https://img.shields.io/badge/Telegram-%40fusionautomate-%2326A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
   <a href="https://fusionautomate.in/"><img src="https://img.shields.io/badge/Website-fusionautomate.in-blueviolet?style=for-the-badge" alt="Website"></a>
 </p>
 
 <p align="center">
+  <a href="https://www.dailymotion.com/fusionautomate"><img src="https://img.shields.io/badge/Dailymotion-FusionAutomate-%230072C6?style=for-the-badge&logo=dailymotion" alt="Dailymotion"></a>
+  <a href="http://rumble.com/c/Fusion_Automate"><img src="https://img.shields.io/badge/Rumble-FusionAutomate-%2320D161?style=for-the-badge&logo=rumble" alt="Rumble"></a>
+  <a href="https://www.tindie.com/stores/fusion_automate/"><img src="https://img.shields.io/badge/Tindie-Shop-blue?style=for-the-badge" alt="Tindie"></a>
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=papercodeIN.papercodeIN" alt="Visitors" height="20" />
+</p>
+
+---
+
+## 🙋 About Me
+
+- 🎓 **Instrumentation & Control Engineer** by certificate
+- 🏭 Working with **Industrial IoT, SCADA, PLC & building automation** — Modbus, OPC UA/DA, MQTT, BACnet
+- 💻 **Python** programmer and **Linux** user
+- 🔧 Hands-on with **ESP32/ESP8266, Raspberry Pi Pico and single-board computers**
+- 📺 Free video tutorials for everything I build on [**YouTube**](https://www.youtube.com/@Fusion_Automate)
+
+## 🧰 Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white" alt="Node-RED">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white" alt="MicroPython">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat" alt="MQTT">
+  <img src="https://img.shields.io/badge/Modbus-00599C?style=flat" alt="Modbus">
+  <img src="https://img.shields.io/badge/OPC_UA_%2F_DA-7A1FA2?style=flat" alt="OPC UA/DA">
+  <img src="https://img.shields.io/badge/BACnet-009688?style=flat" alt="BACnet">
+  <img src="https://img.shields.io/badge/SCADA-FF6F00?style=flat" alt="SCADA">
+  <img src="https://img.shields.io/badge/PLC-37474F?style=flat" alt="PLC">
+  <img src="https://img.shields.io/badge/SBCs-4CAF50?style=flat" alt="SBCs">
 </p>
 
 ---
@@ -26,8 +64,7 @@
 [![LuckFox](https://img.shields.io/badge/LuckFox-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/Luckfox)
 [![D-Robotics](https://img.shields.io/badge/DRobotics-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/D-Robotics)
 [![Portworld](https://img.shields.io/badge/Portworld-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/Portworld)
-[![Debix](https://img.shields.io/badge/Debix-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/Debix)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/Raspberry-Pi)
+[![Debix](https://img.shields.io/badge/Debix-%230072C6?style=for-the-badge)](https://github.com/papercodeIN/DEBIX)
 
 ## 📟 Embedded
 
@@ -51,10 +88,24 @@
 
 ---
 
+## ⭐ Featured Projects
+
+| 📦 Project | 📝 What it is |
+|-----------|--------------|
+| [OpenOPC-PyModbus-Snap7-MQTT](https://github.com/papercodeIN/OpenOPC-PyModbus-Snap7-MQTT) | Industrial automation toolkit — OPC DA/UA, Modbus, MQTT, BACnet, IEC-104, DNP3 |
+| [RPI-PICO](https://github.com/papercodeIN/RPI-PICO) | MicroPython on Pico W — Modbus TCP/RTU, MQTT, PostgreSQL, Telegram |
+| [ESP_AdBlock](https://github.com/papercodeIN/ESP_AdBlock) | Pi-hole style DNS sinkhole for ESP32-C3 / ESP8266 / Pico W |
+| [LocalVault](https://github.com/papercodeIN/LocalVault) | Offline password manager — AES-256-GCM, no cloud |
+| [png2webp](https://github.com/papercodeIN/png2webp) | In-browser image → WebP converter — private, no uploads |
+| [ATtiny85-Mouse-Jiggler](https://github.com/papercodeIN/ATtiny85-Mouse-Jiggler) | Digispark ATtiny85 USB mouse jiggler + Windows flasher |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papercodeIN&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=papercodeIN&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papercodeIN&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -70,6 +121,16 @@
   <a href="https://buymeacoffee.com/pylin/extras"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Visit_Store-%23FF0000?style=for-the-badge&logo=buymeacoffee" alt="BMC Store"></a>
 </p>
 
+## 📞 Contact
+
+| 📞 Method | 🔗 Details |
+|-----------|-----------|
+| Call / WhatsApp | [+91-9974477759](https://wa.me/919974477759) |
+| Telegram | [@fusionautomate](https://t.me/fusionautomate) |
+| Email | [eng.innovativ@gmail.com](mailto:eng.innovativ@gmail.com) |
+
+---
+
 ## 💖 Support My Work
 
 <p align="center">
@@ -79,7 +140,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCKKhdFV0q8CV5vWUDfiDfTw" target="_blank">
-    <img src="https://img.shields.io/badge/SUBSCRIBE%20ON%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube">
-  </a>
+  ⭐ Star the repos you find useful · 🔔 Follow for new tutorials
 </p>
