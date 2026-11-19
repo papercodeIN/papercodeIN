@@ -78,6 +78,7 @@
 [![WittelB](https://img.shields.io/badge/WittelB-teal?style=for-the-badge)](https://github.com/papercodeIN/WittelB)
 [![STEAM KIT](https://img.shields.io/badge/STEAM_KIT-teal?style=for-the-badge)](https://github.com/papercodeIN/STEAM_KIT)
 [![VIEWE DISPLAY](https://img.shields.io/badge/VIEWE_DISPLAY-teal?style=for-the-badge)](https://github.com/papercodeIN/Viewe_Display)
+[![AI-Thinker](https://img.shields.io/badge/AI--Thinker-teal?style=for-the-badge)](https://github.com/papercodeIN/AI-Thinker)
 
 ## 🏭 IIoT Edge Software
 
