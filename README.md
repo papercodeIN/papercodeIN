@@ -12,9 +12,6 @@
   <a href="https://fusionautomate.in/"><img src="https://img.shields.io/badge/Website-fusionautomate.in-blueviolet?style=for-the-badge" alt="Website"></a>
   <a href="https://wa.me/919974477759"><img src="https://img.shields.io/badge/WhatsApp-%2B91_99744_77759-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:eng.innovativ@gmail.com"><img src="https://img.shields.io/badge/Email-eng.innovativ%40gmail.com-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
   <a href="https://www.dailymotion.com/fusionautomate"><img src="https://img.shields.io/badge/Dailymotion-FusionAutomate-%230072C6?style=for-the-badge&logo=dailymotion" alt="Dailymotion"></a>
   <a href="http://rumble.com/c/Fusion_Automate"><img src="https://img.shields.io/badge/Rumble-FusionAutomate-%2320D161?style=for-the-badge&logo=rumble" alt="Rumble"></a>
   <a href="https://www.tindie.com/stores/fusion_automate/"><img src="https://img.shields.io/badge/Tindie-Shop-blue?style=for-the-badge" alt="Tindie"></a>
