@@ -198,24 +198,11 @@
   <a href="https://buymeacoffee.com/pylin" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 50px; width: 180px;">
   </a>
+  <a href="https://www.youtube.com/channel/UCKKhdFV0q8CV5vWUDfiDfTw" target="_blank">
+  <img src="assets/youtube-subscribe.png" alt="Subscribe on YouTube" height="40">
+</a>
 </p>
 
 <p align="center">
   ⭐ Star the repos you find useful · 🔔 Follow for new tutorials
 </p>
-
----
-
-<div align="center">
-
-✨ **Enjoying these lessons? Support our work!** ✨
-
-<a href="https://buymeacoffee.com/pylin" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40">
-</a>
-
-<a href="https://www.youtube.com/channel/UCKKhdFV0q8CV5vWUDfiDfTw" target="_blank">
-  <img src="assets/youtube-subscribe.png" alt="Subscribe on YouTube" height="40">
-</a>
-
-</div>
